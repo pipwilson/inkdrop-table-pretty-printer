@@ -1,0 +1,5 @@
+{
+  ".CodeMirror textarea": {
+    "ctrl-alt-l": "table-pretty-print"
+  }
+}

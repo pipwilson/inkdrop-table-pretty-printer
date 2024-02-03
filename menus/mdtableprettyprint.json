@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Format tables",
+        "command": "table-pretty-print"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "Format tables",
+          "command": "table-pretty-print"
+        }
+      ]
+    }
+  ]
+}

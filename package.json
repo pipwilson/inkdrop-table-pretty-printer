@@ -1,0 +1,15 @@
+{
+  "name": "mdtable-pretty-printer",
+  "main": "./lib/index",
+  "version": "1.0.0",
+  "description": "Formats Markdown tables to make them easier to read",
+  "keywords": ["markdown"],
+  "repository": "https://github.com/pipwilson/inkdrop-mdtableprettyprint",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": ">=5.6.0 <7.0.0"
+  },
+  "dependencies": {
+    "md_table_prettyprint": "^1.0.2"
+  }
+}
