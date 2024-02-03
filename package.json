@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Formats Markdown tables to make them easier to read",
   "keywords": ["markdown"],
-  "repository": "https://github.com/pipwilson/inkdrop-mdtableprettyprint",
+  "repository": "https://github.com/pipwilson/inkdrop-table-pretty-printer",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=5.6.0 <7.0.0"
